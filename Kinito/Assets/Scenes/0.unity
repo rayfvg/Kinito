@@ -452,7 +452,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 231418802}
   nextButton: {fileID: 51056442}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 1336115587}
   NextScene: {fileID: 2147421183}
   CloseScene: {fileID: 1336115586}
@@ -1576,7 +1576,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 50581995}
   nextButton: {fileID: 114501097}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 555301137}
   NextScene: {fileID: 521205802}
   CloseScene: {fileID: 555301132}
@@ -1658,7 +1658,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0c7a7251604f74344949534d31a4465a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7bbd34e69139bd44fb8c396d5eb7ad37, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4497,7 +4497,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 1072039627}
   nextButton: {fileID: 355413236}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 1414822010}
   NextScene: {fileID: 354251417}
   CloseScene: {fileID: 1414822009}
@@ -6047,7 +6047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 1531718874}
   nextButton: {fileID: 503254033}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 354251418}
   NextScene: {fileID: 776762929}
   CloseScene: {fileID: 354251417}
@@ -6280,7 +6280,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 194113375}
   nextButton: {fileID: 511545667}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 776762930}
   NextScene: {fileID: 1065501002}
   CloseScene: {fileID: 776762929}
@@ -6531,7 +6531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 1732315675}
   nextButton: {fileID: 520050065}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 967518080}
   NextScene: {fileID: 2092216930}
   CloseScene: {fileID: 967518079}
@@ -8613,7 +8613,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 1929966219}
   nextButton: {fileID: 658985854}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 77623201}
   NextScene: {fileID: 354251417}
   CloseScene: {fileID: 77623200}
@@ -9489,7 +9489,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 628745253}
   nextButton: {fileID: 752938363}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 591203018}
   NextScene: {fileID: 591203017}
   CloseScene: {fileID: 591203017}
@@ -11041,7 +11041,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0c7a7251604f74344949534d31a4465a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7bbd34e69139bd44fb8c396d5eb7ad37, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12472,7 +12472,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0c7a7251604f74344949534d31a4465a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7bbd34e69139bd44fb8c396d5eb7ad37, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13120,7 +13120,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 1909542316}
   nextButton: {fileID: 1082859275}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 1065501003}
   NextScene: {fileID: 1558071099}
   CloseScene: {fileID: 1065501002}
@@ -14166,7 +14166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 1425858534}
   nextButton: {fileID: 1219607649}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 349978658}
   NextScene: {fileID: 591203017}
   CloseScene: {fileID: 349978657}
@@ -16031,7 +16031,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 914109758}
   nextButton: {fileID: 1429394057}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 1016978756}
   NextScene: {fileID: 432640441}
   CloseScene: {fileID: 1016978755}
@@ -18441,7 +18441,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 681627719}
   nextButton: {fileID: 1688049021}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 1990672993}
   NextScene: {fileID: 354251417}
   CloseScene: {fileID: 1990672992}
@@ -18680,7 +18680,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 1942256447}
   nextButton: {fileID: 1695981071}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 1351595628}
   NextScene: {fileID: 354251417}
   CloseScene: {fileID: 1351595627}
@@ -20528,7 +20528,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 969970922}
   nextButton: {fileID: 1948433141}
-  letterDelay: 0.01
+  letterDelay: 0.12
   CanvasGroup: {fileID: 1558071100}
   NextScene: {fileID: 136516798}
   CloseScene: {fileID: 1558071099}
@@ -21630,7 +21630,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0c7a7251604f74344949534d31a4465a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7bbd34e69139bd44fb8c396d5eb7ad37, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
