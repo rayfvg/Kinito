@@ -12,6 +12,7 @@ public class DialogueManager : MonoBehaviour
 
     public CanvasGroup CanvasGroup;
     public GameObject NextScene;
+    public GameObject CloseScene;
 
     private string Name;
 
@@ -47,6 +48,7 @@ public class DialogueManager : MonoBehaviour
                 nextButton.interactable = false; // Отключаем кнопку, если диалоги закончились 
                 CanvasGroup.alpha = 0;
                 NextScene.SetActive(true);
+                CloseScene.SetActive(false);
             }
         }
     }
