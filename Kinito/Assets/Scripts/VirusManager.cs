@@ -5,6 +5,7 @@ public class VirusManager : MonoBehaviour
 {
     public Button[] buttons; // Массив кнопок
 
+    public AudioSource _AudioSource;
     private int currentButtonIndex; // Текущий индекс кнопки, которую нужно удалить
     public int Count = 0;
 
@@ -31,7 +32,7 @@ public class VirusManager : MonoBehaviour
     void ButtonClicked(Button clickedButton)
     {
         // Проверяем, что нажатая кнопка совпадает с текущей кнопкой в массиве
-        
+        _AudioSource.Play();
             // Удаляем кнопку
             Destroy(clickedButton.gameObject);
 

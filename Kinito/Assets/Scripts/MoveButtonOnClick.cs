@@ -14,6 +14,8 @@ public class MoveButtonOnClick : MonoBehaviour
 
     public Slider slider;
 
+    public AudioSource _AudioSource;
+
     public GameObject CloseScene;
     public GameObject OpenScene;
 
@@ -30,6 +32,7 @@ public class MoveButtonOnClick : MonoBehaviour
 
     void MoveButton()
     {
+        _AudioSource.Play();
         // Генерируем случайные координаты в заданных границах
         float randomX = Random.Range(minX, maxX);
         float randomY = Random.Range(minY, maxY);

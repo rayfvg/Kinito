@@ -16,6 +16,8 @@ public class DialogueManager : MonoBehaviour
 
     private string Name;
 
+    public AudioSource[] AudioSources;
+
 
     [SerializeField] string[] dialogues = new string[]
     {
@@ -42,6 +44,7 @@ public class DialogueManager : MonoBehaviour
             if (currentDialogueIndex < dialogues.Length)
             {
                 StartCoroutine(DisplayText(dialogues[currentDialogueIndex]));
+                AudioSources[currentDialogueIndex].Play();
             }
             else
             {
