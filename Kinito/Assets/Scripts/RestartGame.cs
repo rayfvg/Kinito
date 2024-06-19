@@ -1,14 +1,14 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class RestartGame : MonoBehaviour
 {
-    public GameObject thisScene;
+    
     public void RestartGames()
     {
+        PlayerPrefs.SetInt("ThisScene", 0);
         SceneManager.LoadScene(0);
-        thisScene.SetActive(false);
+        this.gameObject.SetActive(false);
+        
     }
 }
